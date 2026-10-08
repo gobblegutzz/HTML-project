@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.learn{
+    display: flex;
+    gap: 600px;
+}
+
+.paragraphs {
+    display: flex;
+    gap: 600px;
+}
+
+.images {
+    display: flex;
+    gap: 20px;
+}
+
+.images img {
+    display: none;
+}
+
+.buttons {
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    display: flex;
+    gap: 600px;
+}
